@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @imsodeadlol
+- 👀 I’m interested in Java & Skript Development
+- 🌱 I’m currently learning Skript Addons
+- 💞️ I’m looking to collaborate on Minecraft Server Development
+- 📫 How to reach me Discord: ImSoDeadlol
+- ⚡ Fun fact: Java is better than Skript
